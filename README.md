@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Dedunu Karunarathne.
 - 👀 I’m interested in software development.
-- 🎓 I’m currently Studying at Department of Electronic and Telecommunication Engineering of University of Moratuwa
-- 🌱 I’m am learning Java, Python and React
+- 🎓 I’m currently Studying at Department of Electronic and Telecommunication Engineering of University of Moratuwa.
+- 🌱 I’m am learning Java, Python and React.
+- ✍️ I like to explore, learn and develop new skills.
 
 
 <!---
